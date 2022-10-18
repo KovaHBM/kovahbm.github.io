@@ -31,24 +31,22 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD
+    - title: PhD in Nonlinear Dynamics
       institution: Ecole Centrale de Lyon, Ecully, France
-      year: 2022
+      year: 2019-2022
       description:
         - Computational Nonlinear Dynamics of Large-Scale Geared Systems
-    - title: MSc
+    - title: MSc Modelling and Simulation in Structural Mechanics and Coupled Systems
       institution: CentraleSupélec, Gif-sur-Yvette, France
-      year: 2018
-      description:
-        - Modelling and Simulation in Structural Mechanics and Coupled Systems
-    - title: MSc/Ing
+      year: 2017-2018
+    - title: MSc in Mechanical Engineering
       institution: ISAE-Supméca, St-Ouen, France
-      year: 2018
+      year: 2015-2018
       description:
         - French "Diplôme d'ingénieur"
 
 
-- title: Reseach Experience
+- title: Research Experience
   type: time_table
   contents:
     - title: Postdoctoral Research Fellow
@@ -97,4 +95,4 @@
 #      items:
 #        - Description 1.
 #        - Description 2.
-    - title: Reduced-Order Modelling
+    - title: Rotordynamics
