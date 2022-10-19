@@ -34,8 +34,6 @@
     - title: PhD in Nonlinear Dynamics
       institution: Ecole Centrale de Lyon, Ecully, France
       year: 2019-2022
-      description:
-        - Computational Nonlinear Dynamics of Large-Scale Geared Systems
     - title: MSc Modelling and Simulation in Structural Mechanics and Coupled Systems
       institution: CentraleSupélec, Gif-sur-Yvette, France
       year: 2017-2018
@@ -83,16 +81,47 @@
 #    - year: 2029
 #      items: 
 #        - Max Planck Medal
+- title: Programming Skills
+  type: nested_list
+  contents:
+    - title: Proficient in
+      items:
+        - Matlab
+        - Julia
+        - Python
+    - title: Familiar with
+      items: 
+        - C
 
 - title: Academic Interests
   type: nested_list
   contents:
     - title: Nonlinear Dynamics
+      items: 
+        - Bifurcation Analysis
+        - Reduced-Order Modelling
+        - Chaos
+    - title: Numerical Analysis
+      items:
+        - Computational Methods for Large-Scale Systems
+        - Optimization
+    - title: Rotordynamics
+
+- title: Responsibilities
+  type: time_table
+  contents:
+    - title: Member-elect of the laboratory council
+      year: 2021-2022
 #      items: 
 #        - Description 1.
 #        - Description 2.
-    - title: Numerical Analysis
+    - title: Reviewer for Nonlinear Dynamics
+      year: 2022-Present
 #      items:
 #        - Description 1.
 #        - Description 2.
-    - title: Rotordynamics
+    - title: Reviewer for Journal of Sound and Vibration
+      year: 2022-Present
+
+    - title: Reviewer for Applied Mathematical Modelling
+      year: 2021-Present
