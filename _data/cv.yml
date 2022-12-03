@@ -48,6 +48,11 @@
   type: time_table
   contents:
     - title: Postdoctoral Research Fellow
+      institution: Inria, Rennes, France
+      year: 2022-Present
+      description:
+        - Optimization of Nonlinear Mechanical Systems with bifurcating behaviour
+    - title: Postdoctoral Research Fellow
       institution: Ecole Centrale de Lyon, Ecully, France
       year: 2022
       description:
