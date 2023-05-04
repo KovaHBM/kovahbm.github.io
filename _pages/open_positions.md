@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /teaching/
+permalink: /positions/
 title: Open positions
 description: Interships, PhDs, Postdocs
 nav: true
