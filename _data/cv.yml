@@ -47,9 +47,10 @@
 - title: Research Experience
   type: time_table
   contents:
-  - title: Starting Research Position
+    - title: Starting Research Position
       institution: Inria, Rennes, France
       year: 2024-Present
+      description:
     - title: Postdoctoral Research Fellow
       institution: Inria, Rennes, France
       year: 2022-2024
