@@ -47,9 +47,12 @@
 - title: Research Experience
   type: time_table
   contents:
+  - title: Starting Research Position
+      institution: Inria, Rennes, France
+      year: 2024-Present
     - title: Postdoctoral Research Fellow
       institution: Inria, Rennes, France
-      year: 2022-Present
+      year: 2022-2024
       description:
         - Optimization of nonlinear mechanical systems with bifurcating behaviour
     - title: Postdoctoral Research Fellow
