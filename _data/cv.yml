@@ -97,9 +97,10 @@
       items:
         - Matlab
         - Julia
-        - Python
+
     - title: Familiar with
       items: 
+        - Python
         - C
 
 - title: Academic Interests
